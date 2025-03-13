@@ -1,0 +1,10 @@
+{
+  "id": "kakegurui",
+  "name": "Kakegurui Clock",
+  "type": "clock",
+  "icon": "icon.png",
+  "description": "A red & black Kakegurui-themed watch face",
+  "storage": [
+    { "name": "kakegurui.js", "url": "kakegurui.js" }
+  ]
+}
